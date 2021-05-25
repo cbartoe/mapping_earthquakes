@@ -1,1 +1,0 @@
-APIkey = "pk.eyJ1IjoiY2JhcnRvZSIsImEiOiJja3A0NG44bnExa3VvMm9td2NxbWVqbXQ2In0.IQK9s5ekPLWpQMB5zk21DA"
